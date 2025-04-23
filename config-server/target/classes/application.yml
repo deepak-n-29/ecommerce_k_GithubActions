@@ -1,0 +1,18 @@
+spring:
+  application.name: config-server
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/deepak-n-29/ecommerce-config-server_week6_Docker.git
+#          username: deepak-n-29
+#          password: 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
+          default-label: master
+
+server:
+  port: 8888
+
+
+
+

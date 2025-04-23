@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4eb095c4-cc14-424e-a1ff-bec2fd53b185" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.4 Unit Testing the persistence layer and setting up TestContainer/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.4 Unit Testing the persistence layer and setting up TestContainer/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.5 Understanding Mocking with the Mockito Library/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.5 Understanding Mocking with the Mockito Library/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.6 Unit Testing the Service Layer using Mockito/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.6 Unit Testing the Service Layer using Mockito/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.7 Integration Testing in Spring Testing/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.7 Integration Testing in Spring Testing/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.8 JaCoCoTest Report Generation/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/7.8 JaCoCoTest Report Generation/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week7/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.1 Setup Production Database with RDS in AWS/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.1 Setup Production Database with RDS in AWS/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.2 Spring Profiles - Creating dev, prod envs in Springboot/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.2 Spring Profiles - Creating dev, prod envs in Springboot/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.3 Deploy on Elastic Beanstalk with Load Balancer, EC2, Autoscaling and RDS connection/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.3 Deploy on Elastic Beanstalk with Load Balancer, EC2, Autoscaling and RDS connection/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.4 Setup CI-CD with AWS CodePipeline and CodeBuild with Github hooks/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.4 Setup CI-CD with AWS CodePipeline and CodeBuild with Github hooks/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.5 Database Migration in Production using Flyway/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/8.5 Database Migration in Production using Flyway/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/TestingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../SB_0To1/Recorded Session/Week8/TestingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Live/linkedInProject" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Live/linkedInProject" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../../../../../.." source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;deepak2429&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/deepak-n-29/ecommerce_k_GithubActions.git",
+    "accountId": "a5452458-eaf7-4ed9-9246-bcf41abd6f37"
+  }
+}]]></component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="explicitlyEnabledProfiles" value="native,nativeTest" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2t5YH8OwWyDma5GrT4kc82p2hZB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiGatewayApplication.executor": "Run",
+    "Application.ConfigServerApplication.executor": "Run",
+    "Application.DiscoveryServiceApplication.executor": "Run",
+    "Application.InventoryServiceApplication.executor": "Run",
+    "Application.OrderServiceApplication.executor": "Run",
+    "JUnit.ApiGatewayApplicationTests.executor": "Run",
+    "Maven.api-gateway [clean,package,-DskipTests].executor": "Run",
+    "Maven.api-gateway [clean:clean].executor": "Run",
+    "Maven.api-gateway [clean].executor": "Run",
+    "Maven.config-server [clean].executor": "Run",
+    "Maven.discovery-service [clean].executor": "Run",
+    "Maven.inventory-service [clean].executor": "Run",
+    "Maven.order-service [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/deepakn/Desktop/Java/CodingShuttle/SB_1To100/Recorded/week8/8.5 ConfigMap & Secrets/ecommerce",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "service.view.auto.scroll.from.source": "true",
+    "service.view.auto.scroll.to.source": "true",
+    "settings.editor.selected.configurable": "vcs.log"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k8s" />
+      <recent name="$PROJECT_DIR$/config-server/src/main/resources" />
+      <recent name="C:\Java\CodingShuttle\SB_1To100\Recorded\week6\6.5 Dockerize MicroService Architecture\ecommerce\order-service" />
+      <recent name="C:\Java\CodingShuttle\SB_1To100\Recorded\week6\6.5 Dockerize MicroService Architecture\ecommerce\inventory-service" />
+      <recent name="C:\Java\CodingShuttle\SB_1To100\Recorded\week6\6.5 Dockerize MicroService Architecture\ecommerce\discovery-service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean package -DskipTests" />
+      <command value="mvn clean:clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="Java Scratch" />
+      </set>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb095c4-cc14-424e-a1ff-bec2fd53b185" name="Changes" comment="" />
+      <created>1739643312781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739643312781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.cloud.gateway.handler.FilteringWebHandler$DefaultGatewayFilterChain" memberName="filters" />
+        <PinnedItemInfo parentTag="java.lang.Long" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="exchange" />
+        <watch expression="((MutativeDecorator)exchange).request" custom="org.springframework.web.server.DefaultServerWebExchangeBuilder.MutativeDecorator" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

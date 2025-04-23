@@ -1,0 +1,8 @@
+com/codingShuttle/ecommerce/api_gateway/filters/AuthenticationGatewayFilterFactory.class
+com/codingShuttle/ecommerce/api_gateway/config/AppConfig.class
+com/codingShuttle/ecommerce/api_gateway/filters/AuthenticationGatewayFilterFactory$Config.class
+com/codingShuttle/ecommerce/api_gateway/filters/GlobalLoggingFilter.class
+com/codingShuttle/ecommerce/api_gateway/ApiGatewayApplication.class
+com/codingShuttle/ecommerce/api_gateway/service/JwtService.class
+com/codingShuttle/ecommerce/api_gateway/filters/LoggingOrdersFilter$Config.class
+com/codingShuttle/ecommerce/api_gateway/filters/LoggingOrdersFilter.class

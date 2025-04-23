@@ -1,0 +1,11 @@
+com/codingShuttle/ecommerce/inventory_service/dto/ProductDto.class
+com/codingShuttle/ecommerce/inventory_service/entity/Product$ProductBuilder.class
+com/codingShuttle/ecommerce/inventory_service/entity/Product.class
+com/codingShuttle/ecommerce/inventory_service/InventoryServiceApplication.class
+com/codingShuttle/ecommerce/inventory_service/config/AppConfig.class
+com/codingShuttle/ecommerce/inventory_service/controller/ProductController.class
+com/codingShuttle/ecommerce/inventory_service/dto/OrderRequestDto.class
+com/codingShuttle/ecommerce/inventory_service/repo/ProductRepo.class
+com/codingShuttle/ecommerce/inventory_service/client/OrdersFeignClient.class
+com/codingShuttle/ecommerce/inventory_service/dto/OrderRequestItemDto.class
+com/codingShuttle/ecommerce/inventory_service/service/ProductService.class

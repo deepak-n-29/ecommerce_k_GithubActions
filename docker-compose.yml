@@ -1,0 +1,87 @@
+version: "3.8"
+
+services:
+  zipkin:
+    image: openzipkin/zipkin:latest
+    container_name: zipkin
+    ports:
+      - "9411:9411"
+    networks:
+      - ecommerce-network
+
+  order-db:
+    image: postgres
+    container_name: order-db
+    environment:
+      - POSTGRES_DB=orderDB
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=1234
+    networks:
+      - ecommerce-network
+    volumes:
+      - order-db-data:/var/lib/postgresql/data
+
+  inventory-db:
+    image: postgres
+    container_name: inventory-db
+    environment:
+      - POSTGRES_DB=inventoryDB
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=1234
+    networks:
+      - ecommerce-network
+    volumes:
+      - inventory-db-data:/var/lib/postgresql/data
+
+  discovery-service:
+    image: deepak2429/discovery-service
+    container_name: discovery-service
+    networks:
+      - ecommerce-network
+
+
+  config-server:
+    image: deepak2429/config-server
+    container_name: config-server
+    networks:
+      - ecommerce-network
+    depends_on:
+      - discovery-service
+
+  inventory-service:
+    image: deepak2429/inventory-service
+    container_name: inventory-service
+    networks:
+      - ecommerce-network
+    depends_on:
+      - config-server
+      - zipkin
+      - inventory-db
+
+  order-service:
+    image: deepak2429/order-service
+    container_name: order-service
+    networks:
+      - ecommerce-network
+    depends_on:
+      - config-server
+      - zipkin
+      - order-db
+
+  api-gateway:
+    image: deepak2429/api-gateway
+    container_name: api-gateway
+    networks:
+      - ecommerce-network
+    depends_on:
+      - order-service
+      - inventory-service
+    ports:
+      - "8080:8080"
+
+volumes:
+  order-db-data:
+  inventory-db-data:
+
+networks:
+  ecommerce-network:

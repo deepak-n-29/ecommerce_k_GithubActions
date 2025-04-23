@@ -1,0 +1,12 @@
+com/codingShuttle/ecommerce/order_service/dto/OrderRequestDto.class
+com/codingShuttle/ecommerce/order_service/config/AppConfig.class
+com/codingShuttle/ecommerce/order_service/service/OrdersService.class
+com/codingShuttle/ecommerce/order_service/repo/OrdersRepo.class
+com/codingShuttle/ecommerce/order_service/clients/InventoryOpenFeignClient.class
+com/codingShuttle/ecommerce/order_service/dto/OrderRequestItemDto.class
+com/codingShuttle/ecommerce/order_service/entity/OrderItem.class
+com/codingShuttle/ecommerce/order_service/controller/OrdersController.class
+com/codingShuttle/ecommerce/order_service/config/FeaturesEnableConfig.class
+com/codingShuttle/ecommerce/order_service/OrderServiceApplication.class
+com/codingShuttle/ecommerce/order_service/entity/Orders.class
+com/codingShuttle/ecommerce/order_service/entity/OrderStatus.class
